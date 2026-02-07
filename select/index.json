@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "彗星ハネムーン",
+  "base_artist": "ナユタン星人",
+  "createdAt": "2026-02-07T14:40:26.387313Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "彗星ハネムーン",
+      "artist": "初音ミク; ナユタン星人",
+      "has_synced": true,
+      "path": "select/01_彗星ハネムーン_初音ミク;_ナユタン星人.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "彗星ハネムーン",
+      "artist": "Nayutalien",
+      "has_synced": true,
+      "path": "select/02_彗星ハネムーン_Nayutalien.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "彗星ハネムーン",
+      "artist": "ナユタン星人",
+      "has_synced": true,
+      "path": "select/03_彗星ハネムーン_ナユタン星人.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "彗星ハネムーン",
+      "artist": "NORISTRY",
+      "has_synced": true,
+      "path": "select/04_彗星ハネムーン_NORISTRY.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "彗星ハネムーン",
+      "artist": "ナユタン星人×Sou",
+      "has_synced": false,
+      "path": "select/05_彗星ハネムーン_ナユタン星人×Sou.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "彗星ハネムーン",
+      "artist": "NayutalieN (ナユタン星人)",
+      "has_synced": true,
+      "path": "select/06_彗星ハネムーン_NayutalieN_(ナユタン星人).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "彗星ハネムーン - Comet Honeymoon",
+      "artist": "Nayutan Seijin",
+      "has_synced": true,
+      "path": "select/07_彗星ハネムーン_-_Comet_Honeymoon_Nayutan_Seijin.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "彗星ハネムーン",
+      "artist": "初音ミク/ナユタン星人",
+      "has_synced": true,
+      "path": "select/08_彗星ハネムーン_初音ミク_ナユタン星人.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "彗星ハネムーン",
+      "artist": "Yuu.",
+      "has_synced": false,
+      "path": "select/09_彗星ハネムーン_Yuu..txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "彗星ハネムーン",
+      "artist": "ナユタン星人",
+      "has_synced": false,
+      "path": "select/pl_01_彗星ハネムーン_ナユタン星人.txt"
+    }
+  ]
+}
